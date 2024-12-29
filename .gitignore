@@ -1,0 +1,68 @@
+# Node modules
+/node_modules
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Dependency directories
+/bower_components
+/.pnp
+.pnp.js
+
+# Build and dist folders
+/build
+/dist
+
+# Next.js
+.next
+/out
+
+# TypeScript
+*.tsbuildinfo
+
+# PM2 Logs
+.pm2/logs
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Parcel-bundler cache (if used)
+.cache
+
+# Docker
+Dockerfile
+docker-compose.yml
+.dockerignore
+
+# Miscellaneous
+/.DS_Store
+Thumbs.db
+
+# Lockfiles
+/package-lock.json
+/yarn.lock
+
+# Coverage directory used by testing tools
+/coverage
+
+# IDE-specific settings
+.vscode
+.idea
+
+# Temporary files
+*.swp
+*.swo
